@@ -1,0 +1,11 @@
+ip,user,pass
+192.168.1.6,maestro,root
+192.168.1.251,m,root
+192.168.1.20,asw,root
+192.168.1.27,xcd,root
+192.168.1.5,asw,root
+192.168.1.16,maestro,root
+192.168.1.17,maestro,root
+192.168.1.15,maestro,root
+192.168.1.48,maestro,root
+192.168.1.29,p1,root
